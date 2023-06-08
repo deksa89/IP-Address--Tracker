@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+.map-container {
+    height: 74vh;
+    width: 100%;
+}
+
+@media (max-width: 1510px) {
+    .leaflet-top {
+        top: 120px
+    }
+}  
+
+@media (max-width: 1440px) {
+    .map-container {
+        height: 71.7vh;
+    }
+}  
+
+
+@media (max-width: 1330px) {
+    .leaflet-top {
+        top: 120px
+    }
+}  
+
+@media (max-width: 520px) {
+    .leaflet-top {
+        top: 210px
+    }
+}  
