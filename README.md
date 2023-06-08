@@ -28,4 +28,6 @@ Open your browser and visit: http://localhost:3000
 - axios - Promise-based HTTP client for making API requests
 
 
-![Screenshot from 2023-06-07 15-01-24](https://github.com/deksa89/IP-Address-Locator/assets/89583742/2d4cb7e8-b502-47aa-aa6d-8742374bbf8c)
+![Screenshot from 2023-06-07 15-01-24](https://github.com/deksa89/IP-Address-Tracker/assets/89583742/5176c570-5ee9-4edf-a469-5a2b537c4c2f)
+
+
