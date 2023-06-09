@@ -9,7 +9,7 @@ Show the location on an interactive map.
 Responsive design for seamless user experience on different devices.
 
 ## Demo
-You can try the live demo of the IP Address Locator here.
+You can try the live demo of the IP Address Locator here: https://deksa89.github.io/IP-Address-Tracker/
 
 ## Installation
 To run the IP Address Locator locally, follow these steps:
