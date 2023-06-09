@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/deksa89/IP-Address-Tracker.git/static/css/main.6c037209.css",
-    "main.js": "/deksa89/IP-Address-Tracker.git/static/js/main.18d895d9.js",
-    "static/js/787.9d7524a1.chunk.js": "/deksa89/IP-Address-Tracker.git/static/js/787.9d7524a1.chunk.js",
-    "static/media/pattern-bg-desktop.png": "/deksa89/IP-Address-Tracker.git/static/media/pattern-bg-desktop.5013c4f570ecf757f855.png",
-    "index.html": "/deksa89/IP-Address-Tracker.git/index.html",
-    "static/media/icon-location.svg": "/deksa89/IP-Address-Tracker.git/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
-    "static/media/icon-arrow.svg": "/deksa89/IP-Address-Tracker.git/static/media/icon-arrow.2eaaa5ee3602d5aa14a2.svg",
-    "main.6c037209.css.map": "/deksa89/IP-Address-Tracker.git/static/css/main.6c037209.css.map",
-    "main.18d895d9.js.map": "/deksa89/IP-Address-Tracker.git/static/js/main.18d895d9.js.map",
-    "787.9d7524a1.chunk.js.map": "/deksa89/IP-Address-Tracker.git/static/js/787.9d7524a1.chunk.js.map"
+    "main.css": "/IP-Address-Tracker/static/css/main.48958f13.css",
+    "main.js": "/IP-Address-Tracker/static/js/main.ea0b04fe.js",
+    "static/js/787.9d7524a1.chunk.js": "/IP-Address-Tracker/static/js/787.9d7524a1.chunk.js",
+    "static/media/pattern-bg-desktop.png": "/IP-Address-Tracker/static/media/pattern-bg-desktop.5013c4f570ecf757f855.png",
+    "index.html": "/IP-Address-Tracker/index.html",
+    "static/media/icon-location.svg": "/IP-Address-Tracker/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
+    "static/media/icon-arrow.svg": "/IP-Address-Tracker/static/media/icon-arrow.2eaaa5ee3602d5aa14a2.svg",
+    "main.48958f13.css.map": "/IP-Address-Tracker/static/css/main.48958f13.css.map",
+    "main.ea0b04fe.js.map": "/IP-Address-Tracker/static/js/main.ea0b04fe.js.map",
+    "787.9d7524a1.chunk.js.map": "/IP-Address-Tracker/static/js/787.9d7524a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c037209.css",
-    "static/js/main.18d895d9.js"
+    "static/css/main.48958f13.css",
+    "static/js/main.ea0b04fe.js"
   ]
 }
